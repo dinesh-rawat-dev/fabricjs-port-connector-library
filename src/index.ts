@@ -161,6 +161,9 @@ function currentCornerMetrix() {
   };
 }
 
+/**
+ * Opposite
+ */
 function oppositeCornerMetrix() {
   return {
     rightControlFlowControl: "ml",
